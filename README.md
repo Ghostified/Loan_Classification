@@ -56,12 +56,3 @@ Outputs: Risk class (“Good”/“Bad”), confidence score, top 3 explanatory 
 
 Deployment: Local machine or Streamlit Cloud
 
-1.7 Limitations
-
-Small dataset not representative of global populations
-
-Categorical encodings hardcoded rather than dynamically learned
-
-No integration with real banking infrastructure
-
-Explainability limited to simple feature importance (no SHAP/LIME)
