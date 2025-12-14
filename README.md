@@ -56,3 +56,15 @@ Outputs: Risk class (“Good”/“Bad”), confidence score, top 3 explanatory 
 
 Deployment: Local machine or Streamlit Cloud
 
+Dataset Overview
+The dataset contains the following key features:
+
+ApplicantIncome – Income of the applicant.
+CoapplicantIncome – Income of the co-applicant (if any).
+LoanAmount – Amount of loan applied for.
+Loan_Amount_Term – Duration of the loan in months.
+Credit_History – Record of credit repayment (1 = good credit, 0 = bad credit).
+Gender, Married, Dependents, Education, Self_Employed – Demographic details of the applicant.
+Property_Area – Location of the property (Urban, Semi-Urban, Rural).
+
+
